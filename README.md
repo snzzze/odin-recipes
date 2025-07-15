@@ -6,5 +6,3 @@ In this project I am going to use the basic HTML knowledge I have learned from t
 It will include a:
 - Main index page
 - Links to a few recipes
-
-Reflection:
